@@ -1,5 +1,5 @@
 # Print_Statements
-it is a predefined function the main object of the print function is to display the content of the console,different types of print statements are
+It is a predefined function the main object of the print function is to display the content of the console,different types of print statements are
 Single quotes
 Double Quotes
 Three single Quotes
